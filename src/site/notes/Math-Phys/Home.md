@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/math-phys/home/","tags":"gardenEntry"}
+{"dg-home":true,"dg-publish":true,"permalink":"/math-phys/home/","tags":"gardenEntry","dgPassFrontmatter":true}
 ---
 
 
