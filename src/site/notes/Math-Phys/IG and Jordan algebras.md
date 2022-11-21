@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/math-phys/ig-and-jordan-algebras/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/math-phys/ig-and-jordan-algebras/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true}
 ---
 
 
 creation date: **`=this.file.ctime`** 
 date of last modification: **`=this.file.mtime`**
 
-# `=this.file.name`
+# Information geometry and Jordan algebras
 
 ## Introduction
 
