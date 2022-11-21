@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/math-phys/ig-and-jordan-algebras/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/math-phys/ig-and-jordan-algebras/"}
 ---
 
 
