@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"dg-show-local-graph":true,"permalink":"/math-phys/home/","tags":"gardenEntry","dgShowLocalGraph":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/math-phys/home/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true}
 ---
 
 
