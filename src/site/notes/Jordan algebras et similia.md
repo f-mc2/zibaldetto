@@ -27,9 +27,9 @@ It is customary to write $x^{2}\equiv \{x,x\}$ for all $x\in\mathcal{J}$ and cal
 
 A real Jordan algebra $\mathcal{J}$ is called **formally real** if the sum of any $n$ squares in $\mathcal{J}$ vanishes if and only if all the the terms in the sum vanish individually. The  squares elements in a real, formally real Jordan algebra are also called positive **elements**.
 
-# JB algebras
+# JB-algebras
 
-Let $\mathcal{J}$ be a [[Jordan algebras\|real Jordan algebra]]. If there is a norm $||\cdot||$ on $\mathcal{J}$ making it a real Banach space such that
+Let $\mathcal{J}$ be a real Jordan algebra. If there is a norm $||\cdot||$ on $\mathcal{J}$ making it a real Banach space such that
 
 $$
 ||\{x,y\}||\leq\,||x||\;||y||,
@@ -46,6 +46,8 @@ $$
 \end{split}
 $$
 
-for all $x,y\in\mathcal{J}$, then it is called a **JB algebra**.
+for all $x,y\in\mathcal{J}$, then it is called a **JB-algebra**.
 
-The typical example of JB algebra is the space of self-adjoint elements of a [[C*-algebras\|C*-algebra]] $\mathscr{A}$ for which the Jordan product is given by the anti-commutator determined by the underlying associative product.
+The typical example of JB-algebra is the space of self-adjoint elements of a C*-algebra $\mathscr{A}$ for which the Jordan product is given by the anti-commutator determined by the underlying associative product.
+
+# JBW-algebras
