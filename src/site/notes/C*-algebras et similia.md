@@ -29,5 +29,5 @@ then $\mathscr{A}=(A,+,\cdot,\dagger,\Vert\cdot\Vert)$ is a complex **C*-algebra
 
 # W*-algebras
 
-A complex C*-algebra $\mathscr{A}$ which is the dual space of a Banach space is a complex W*-algebra
+A complex C*-algebra $\mathscr{A}$ which is the dual space of a Banach space $\mathscr{A}_{*}$ is called a complex W*-algebra. The Banach space $\mathscr{A}_{*}$ is called the **predual** of $\mathscr{A}$, and it can be proved that it is unique (up to Banach space isomorphisms).
 
