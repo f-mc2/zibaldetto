@@ -9,7 +9,7 @@ date of last modification: **`=this.file.mtime`**
 # Normal states
 
 
-Let $\mathscr{A}$ be a [[C*-algebras\|C*-algebra]]
+Let $\mathscr{A}$ be a [[C*-algebras et similia\|C*-algebra]].
 
 
 # Normal quantum states
