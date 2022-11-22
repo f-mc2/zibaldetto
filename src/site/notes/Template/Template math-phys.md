@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/template/template-math-phys/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":false,"dgShowLocalGraph":true,"dgShowInlineTitle":false,"dgShowFileTree":true,"dgEnableSearch":true}
+---
+
+
+
+creation date: **`=this.file.ctime`** 
+date of last modification: **`=this.file.mtime`**
+
