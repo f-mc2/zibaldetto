@@ -2,12 +2,6 @@
 {"dg-publish":true,"permalink":"/w-algebras/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":false,"dgShowLocalGraph":true,"dgShowInlineTitle":false,"dgShowFileTree":true,"dgEnableSearch":true}
 ---
 
----
-
-creation date: **`=this.file.ctime`** 
-date of last modification: **`=this.file.mtime`**
-
----
 
 A complex [[C*-algebras\|C*-algebra]] $\mathscr{A}$ which is the dual space of a Banach space $\mathscr{A}_{*}$ is called a complex W*-algebra. The Banach space $\mathscr{A}_{*}$ is called the **predual** of $\mathscr{A}$.
 
