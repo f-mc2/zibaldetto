@@ -2,12 +2,12 @@
 {"dg-publish":true,"permalink":"/random-experiments/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":false,"dgShowLocalGraph":true,"dgShowInlineTitle":false,"dgShowFileTree":true,"dgEnableSearch":true}
 ---
 
+---
 
 creation date: **`=this.file.ctime`** 
 date of last modification: **`=this.file.mtime`**
 
-# Random experiments
-
+---
 
 How do we define **random experiments**?
 
