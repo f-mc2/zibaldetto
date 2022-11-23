@@ -2,13 +2,6 @@
 {"dg-publish":true,"permalink":"/c-algebras/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":false,"dgShowLocalGraph":true,"dgShowInlineTitle":false,"dgShowFileTree":true,"dgEnableSearch":true}
 ---
 
----
-
-creation date: **`=this.file.ctime`** 
-date of last modification: **`=this.file.mtime`**
-
----
-
 
 >[!note] Definition (Involutive algebra)
 Let $(A,+,\cdot)$ be an associative, complex algebra. An involution is an anti-linear map $\dagger \colon A\rightarrow A$ whose square is the identity map. The action of $\dagger$ is often written as $x^{\dagger}$. The quadruple $(A,+,\cdot,\dagger)$ is a complex **involutive algebra**.
