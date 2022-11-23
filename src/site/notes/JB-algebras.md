@@ -2,12 +2,6 @@
 {"dg-publish":true,"permalink":"/jb-algebras/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":false,"dgShowLocalGraph":true,"dgShowInlineTitle":false,"dgShowFileTree":true,"dgEnableSearch":true}
 ---
 
----
-
-creation date: **`=this.file.ctime`** 
-date of last modification: **`=this.file.mtime`**
-
----
 
 >[!note] Definition (Jordan Banach algebras)
 >Let $\mathcal{J}$ be a real Jordan algebra. If there is a norm $||\cdot||$ on $\mathcal{J}$ making it a real Banach space such that
