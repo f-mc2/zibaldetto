@@ -2,12 +2,6 @@
 {"dg-publish":true,"permalink":"/jordan-algebras/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":false,"dgShowLocalGraph":true,"dgShowInlineTitle":false,"dgShowFileTree":true,"dgEnableSearch":true}
 ---
 
----
-
-creation date: **`=this.file.ctime`** 
-date of last modification: **`=this.file.mtime`**
-
----
 
  Let $\mathbb{F}$ be a field of characteristic different than $2$. A **Jordan algebra**  over $\mathbb{F}$ is an $\mathbb{F}$-algebra $\mathcal{J}$ whose product, often written as $\{\cdot,\cdot\}$ or $\circ$, satisfies the following properties:
 
