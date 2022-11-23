@@ -2,12 +2,6 @@
 {"dg-publish":true,"permalink":"/information-geometry-and-jordan-algebras/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":false,"dgShowLocalGraph":true,"dgShowInlineTitle":false,"dgShowFileTree":true,"dgEnableSearch":true}
 ---
 
----
-
-creation date: **`=this.file.ctime`** 
-date of last modification: **`=this.file.mtime`**
-
----
 
 ## Introduction
 
