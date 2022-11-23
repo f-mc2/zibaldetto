@@ -4,8 +4,11 @@
 
 $\newcommand{\Gg}{\mathsf{G}}$
 $\newcommand{\appa}{\mathscr{A}}$
+$\newcommand{\bappa}{\mathscr{B}}$
 
 
+
+$\bappa$ 
 $\appa$ 
 
 $\Gg$ 
