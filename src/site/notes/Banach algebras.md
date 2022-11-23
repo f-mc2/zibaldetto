@@ -2,13 +2,6 @@
 {"dg-publish":true,"permalink":"/banach-algebras/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":false,"dgShowLocalGraph":true,"dgShowInlineTitle":false,"dgShowFileTree":true,"dgEnableSearch":true}
 ---
 
----
-
-creation date: **`=this.file.ctime`** 
-date of last modification: **`=this.file.mtime`**
-
----
-
 
 Let $(B,+,\cdot)$ be an associative algebra over $\mathbb{R}$ or $\mathbb{C}$. Assume there is a norm $\Vert\cdot\Vert$ on $(B,+)$ making it a Banach space and such that
 $$
