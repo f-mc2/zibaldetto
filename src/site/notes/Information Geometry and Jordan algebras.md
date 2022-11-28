@@ -1,9 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/information-geometry-and-jordan-algebras/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":false,"dgShowFileTree":true,"dgEnableSearch":true}
+{"dg-publish":true,"permalink":"/information-geometry-and-jordan-algebras/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true}
 ---
-
-
-## Introduction
 
 
 Here I would like to discuss about what I think is an interesting connection between Jordan algebras, the symplectic aspects of [Kirillov's theory of coadjoint orbits](https://en.wikipedia.org/wiki/Orbit_method), the [[F-R tensor fin-dim\|Fisher-Rao metric tensor]] on strictly positive measures on a discrete and finite sample space, and the [[B-H tensor fin-dim\|Bures-Helstrom metric tensor]] on faithful normal quantum states.
