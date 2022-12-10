@@ -3,6 +3,6 @@
 ---
 
 
-```mathpad
-plot(sin(x))==?
+```desmos-graph
+y=e^{x}
 ```
