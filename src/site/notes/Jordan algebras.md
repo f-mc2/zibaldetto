@@ -28,6 +28,8 @@ $$
 
 Jordan algebras that are not special are called **exceptional**. The typical example of special Jordan algebras is the algebra of bounded, self-adjoint linear operators on a Hilbert space.
 
+---
+
 # Jordan triple product
 
 Every Jordan algebra is naturally endowed with a so-called **Jordan triple** product. To define it, we first introduce the linear map $M_{x}:\mathcal{J}\rightarrow\mathcal{J}$ given by
@@ -58,6 +60,8 @@ If $\mathcal{J}$ is special, then
 $$
 \{x,y,z\}=\frac{1}{2}\left(xyz + zxy\right).
 $$
+
+---
 
 # Formally real Jordan algebras 
 
