@@ -8,6 +8,9 @@ The groupoid of histories on $M$ is the [free groupoid](https://ncatlab.org/nlab
 When performing the explicit construction, we obtain a branching of the time-set.
 
 
+An $\mathsf{G}$-path is a map $\gamma\colon $
+
+
 
 
 
