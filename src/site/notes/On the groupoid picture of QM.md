@@ -3,6 +3,25 @@
 ---
 
 
+# Stern-Gerlach experiment and groupoids
+
+A Stern-Gerlach _apparatus_ (SGa) plays a role analogous to that of a set of position detectors in classical mechanics.
+
+Fixing a direction of an SGa corresponds to fix an origin and a set of axis with respect to which position measurements are considered. 
+
+A beam is produced by an oven, enters an SGa oriented along the $z$-axis, and then hits a screen. The result is a set of black spots on the screen which are focused around two points (up/down). There is no continuous distribution. We are led to conjecture that the "configuration space" has two points.
+
+If we remove the screen, block the downward (upward) beam after the first SGa oriented along the $z$-axis, process the upward (downward) beam in a second SGa oriented along the $z$-axis, and finally collect the output beam on a screen, we only get spots focused around the up (down) site. This instance corresponds to putting a screen that stops all particles in a classical beam which are located below a given point in the vertical $z$-axis.
+
+If we remove the screen , block the downward (upward) beam after the first SGa oriented along the $z$-axis, process the upward (downward) beam in a second SGa oriented along the $x$-axis, select one of the resulting beams, process it through an SGa ariented along the $z$-axis, and finally collect the output beam on a screen,  we obtain again two spots! 
+Confronting with the classical situation, this would be analogous to  to putting a screen that stops all particles in a classical beam which are located below a given point in the vertical $z$-axis, process the rest of the beam by putting a screen that stops all the particles located to the right of the origin along the $x$-axis, and then detect particles below the point on the vertical $z$-axis selected before! 
+
+We obtained a transition between up and down. In a similar way, we can obtain a transition between down and up. We postulate that these two transitions are in a particular relation between each other, namely, we postulate they are one the inverse of the other in the sense 
+
+
+
+
+
 # Motivation for measured groupoids
 
 We require the _act of faith_ of believing that we can associate transitions among outcomes of experiments as a basic building block. Specifically, given an outcome space $\Omega$ that we are able to characterize **operationally** (think to the **configuration space** of classical mechanics and its [phylosophically-distinguished status](https://www.abebooks.com/9780471903390/Dynamical-Systems-Differential-Geometric-Approach-0471903396/plp)), we describe the physical situations we are interested in by means of transitions among elements in $\Omega$. This transitions are abstract (virtual) entities encoding some kind of effective physical interactions that have direct consequences from the point of view of what we can experimentally determine in $\Omega$. We also assume (associative) composability and invertibility among transitions. We thus arrive at an [[Groupoid\|algebraic groupoid]] $\Gamma\rightrightarrows\Omega$ as our foundational mathematical object. This is the counterpart of the Hilbert space/C*-algebra in our formalism.
@@ -59,6 +78,16 @@ If $\Gamma_{x}$ is nice enough, it admits a $\sigma$-finite, left-invariant meas
 >$$
 is a good measure on $\Gamma\cong P(\Omega)\times_{\Omega}\Gamma_{0}$ for which $\nu^{x}\otimes \eta^{x}$ is left-equivariant and $\sigma$-finite.
 
+# Observables from transitions
+
+Consider the experimental setup of the Stern-Gerlach experiment along $z$. We pre-select $z_{+}$ and process the beam through a magnet along $z$ in the same verse. The position $P$ of the beam on the screen can be measured and we interpret it as $(+,+)\mapsto P(+,+)$. If we keep the intensity of the magnetic field fixed but change the orientation we get $(+,-)\mapsto P(+,-)$. Analogously, we obtain $P(-,+)$ and $P(-,-)$. In the end, we obtain a function on the groupoid which has a kind of "experimentally-observable flavour". 
+
+>[!attention] Remark
+>We should elaborate better on the point presented above. Drawings for the SGE are needed in order to give a clearer picture. 
+>Also, it is necessary to find another experimental situation in which to perform the same construction.
+
+This paradigmatic example inspires us to select real-valued functions on the groupoid as the "observables" of our theory.
+
 # From measured groupoids to algebras
 
 Once we have a measured groupoid $(\Gamma,[\tau])$ we can build some algebras. The idea is to use complex-valued, measurable functions on $\Gamma$ lying in a vector space $\mathcal{A}$ for which
@@ -83,6 +112,18 @@ for every $f\in \mathcal{A}$.
 >The groupoid von Neumann algebra $\mathscr{V}_{\tau}(\Gamma)$ of $(\Gamma,[\tau])$ is the double commutant of $\Pi(\mathcal{A})$, while the reduced groupoid C*-algebra $\mathscr{C}_{\tau}(\Gamma)$ of $(\Gamma,[\tau])$ is the norm-closure of $\Pi(\mathcal{A})$. Clearly, these algebra sdepend on the explicit choice of $\tau$ in $[\tau]$.
 
 
+# Physical states
 
+A careful discussion of what a physical state is starting only from the notion of groupoid is still lacking. We are working on that. 
 
+In order to proceed further and to train our intuition, let us see what happens when we start from the notion of states used in AQFT, namely, when states are considered as linear functionals on the algebra of the system. Since we are able to build a von Neumann algebra starting from a measured groupoid, this is a reasonable starting point.
+
+Since different measured groupoids may have isomorphic algebras, the algebra forgets about the groupoid and we would like to be able to "recover" the groupoid using suitable states on the algebra that, in a sense to be defined, "remember" the underlying groupoid.
+
+The driving example is borrowed from group theory, specifically, the idea of [function of positive type](https://arxiv.org/abs/1411.1304).
+
+Adapted to groupoids we have
+$$
+\int_{\mathbf{G}_{2}}\varphi(\alpha^{-1}\circ\beta)\,f(\alpha)\,\overline{f(\beta)}\,\mathrm{d}\nu^{x}(\alpha)\,\mathrm{d}\nu^{x}(\beta)
+$$
 
