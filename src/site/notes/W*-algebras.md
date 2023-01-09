@@ -3,8 +3,19 @@
 ---
 
 
-A complex [[C*-algebras\|C*-algebra]] $\mathscr{A}$ which is the dual space of a Banach space $\mathscr{A}_{*}$ is called a complex W*-algebra. The Banach space $\mathscr{A}_{*}$ is called the **predual** of $\mathscr{A}$.
+In the finite-dimensional case, a [[C*-algebras\|C*-algebra]] $\mathscr{A}$ is always reflexive and isomorphic to its dual. Moreover, given a [[C*-algebras#States\|faithful state]] $\omega$, we can define
+$$
+\langle\mathbf{a}\mid\mathbf{b}\rangle_{\omega}:=\omega(\mathbf{a}^{\dagger}\,\mathbf{b})
+$$
+for every $\mathbf{a},\mathbf{b}\in\mathscr{A}$, which induces a Hilbert space structure on $\mathscr{A}$. The norm induced by this Hilbert space structure is equivalent to the norm-topology of $\mathscr{A}$ as a C\*-algebra because [all the norms on finite-dimensional vector spaces are equivalent](https://planetmath.org/allnormsonfinitedimensionalvectorspacesareequivalent), so that the norm topology of $\mathscr{A}$ is Hilbertizable. 
 
+Nothing similar is possible in infinite-dimensions because, among other things, there is no reflexive infinite-dimensional C\*-algebra. However, it can happen that $\mathscr{A}$ is the dual space of some Banach space, as it is the case for the Abelian C\*-algebra $\mathcal{L}^{\infty}(M,\mu)$. This type of C\*-algebras presents a very rich theory that not always be extended to general C\*-algebras, thus deserving their own name.
+
+
+>[!note] Definition (W\*-algebra)
+>A complex [[C*-algebras\|C*-algebra]] $\mathscr{M}$ which is the dual space of a Banach space  $\mathscr{M}_{*}$ is called a complex W\*-algebra. The Banach space $\mathscr{M}_{*}$ is called the **predual** of $\mathscr{M}$.
+
+ 
 
 # Normal states
 
