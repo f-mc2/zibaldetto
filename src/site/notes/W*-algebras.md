@@ -28,3 +28,4 @@ for every $x\in\mathcal{B}(\mathcal{H})$. Often, these states are called **norma
 >$$
 >where $\omega_{\mathbf{U}}(\mathbf{x})=\omega(\mathbf{U}^{\dagger}\mathbf{xU} )$.
 
+
